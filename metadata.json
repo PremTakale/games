@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Neon Archer: Cyber Hunt",
+  "description": "A high-fidelity 3D archery game featuring a futuristic cyber-fantasy world. Master the bow, defeat AI enemies, and unlock elemental weapons in this immersive aim-and-shoot experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
